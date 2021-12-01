@@ -9,7 +9,7 @@
   <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" src="![eubarbie](https://user-images.githubusercontent.com/93615170/144155048-881a9bbb-259e-4cef-a45c-ad8f652aa984.jpg)">
+  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" src="![eubarbie](https://user-images.githubusercontent.com/93615170/144155307-2c86b469-b78d-49c4-8a00-fdec76625157.jpeg)>
 </div>
   
   ##
