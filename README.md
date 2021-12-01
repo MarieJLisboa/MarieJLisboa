@@ -1,4 +1,4 @@
-
+### Olá! Sou Maria, adoro fazer atividades ao ar livre, amo pets, músicas, animes, tecnologia e afins. Também sou formada em contábeis, e estou estudando desenvolvimento web na Trybe!
 <div align="center">
   <a href="https://github.com/MarieJLisboa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarieJLisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
