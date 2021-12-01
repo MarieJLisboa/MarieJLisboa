@@ -8,7 +8,7 @@
   <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Maria" height="250" width="300" border-radius=50px; src="https://github.com/MarieJLisboa/MarieJLisboa/blob/main/eubarbie%20(1).png?raw=true"> 
+  <img align="right" alt="Maria" height="295" width="300"; src="https://github.com/MarieJLisboa/MarieJLisboa/blob/main/Barbieu%20(1).png?raw=true"> 
 </div>
   
   ##
