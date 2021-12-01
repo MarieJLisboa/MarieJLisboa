@@ -9,14 +9,13 @@
   <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px; " src="https://user-images.githubusercontent.com/93615170/144155496-ab0e8369-7164-4793-9acf-0242c5a482c4.jpeg)">
+  <img align="right" alt="" height="150" style="border-radius:50px; "
 </div>
   
   ##
  
 <div> 
   <a href="https://www.linkedin.com/in/mariejl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MarieJLisboa/MarieJLisboa/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
