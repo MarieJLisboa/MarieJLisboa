@@ -21,11 +21,21 @@ Sou uma FullStack Web Developer 💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarieJLisboa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="MJ-BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MJ-BASH" height="30" width="40" src=<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#4051b5" d="M7 3v6.554h40.792V3H7zm71.75 0v6.554H121V3H78.75zM7 16.835v6.554h40.792v-6.554H7zm71.75 0v6.554H121v-6.554H78.75zM7 30.306v6.554h40.792v-6.554H7zm71.75 0v6.554H121v-6.554H78.75zM7 60.597c0 22.573.073 23.52 2.55 30.91 2.658 8.047 6.228 13.872 11.8 19.442 9.761 9.685 22.4 14.454 39.736 15 19.887.62 35.002-4.369 45.71-15.145 5.5-5.534 9.615-12.488 11.982-20.243 2.15-6.99 2.222-8.155 2.222-30.073V40.5l-21.015.073-21.052.11s-.182.066-.182 28.943c0 32.984-5.526 38.91-16.192 38.91s-14.901-5.67-14.694-39.747c.172-28.193-.11-28.289-.11-28.289H7v20.097z"/></svg>
-  <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MJ-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MJ-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="MJ-eslint" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
+  <img align="center" alt="MJ-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="MJ-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="MJ-heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MJ-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="MJ-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MJ-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="MJ-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MJ-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/ redux-original.svg">
+  <img align="center" alt="MJ-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="right" alt="Maria" height="95" width="100"; src="https://github.com/MarieJLisboa/MarieJLisboa/blob/main/Barbieu%20(1).png?raw=true"> 
 </div>
   
