@@ -42,7 +42,7 @@ Sou uma FullStack Web Developer 💻
   ##
  
 
- <br/>  <br/> Entre em contato comigo: [![Linkedin mariejl](https://img.shields.io/badge/-mariejl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mariejl/)](https://linkedin.com/in/mariejl/)
+ <br/>  <br/> Entre em contato comigo: [![Linkedin Maria José](https://img.shields.io/badge/-mariejl-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mariejl/)](https://linkedin.com/in/mariejl/)
 [![Gmail Maria](https://img.shields.io/badge/-mariajr.lisboa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariajr.lisboa@gmail.com)](mailto:mariajr.lisboa@gmail.com)
 
 
