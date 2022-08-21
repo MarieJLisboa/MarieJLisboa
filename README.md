@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Acredito que a programação é uma maneira encantadora de resolver problemas, além de fornecer meios de externalizar a criatividade.
+Acredito que a programação é uma maneira instigante de resolver problemas, além de fornecer meios de externalizar a criatividade.
 Sou uma FullStack Web Developer 💻
 
  :rocket:  &nbsp; Estou Disponível para Contratações
