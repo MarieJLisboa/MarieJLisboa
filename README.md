@@ -17,7 +17,7 @@ Sou uma FullStack Web Developer 💻
  
 <div align="center">
   <a href="https://github.com/MarieJLisboa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarieJLisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarieJLisboa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarieJLisboa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -42,7 +42,7 @@ Sou uma FullStack Web Developer 💻
   ##
  
 
- <br/>  <br/> Entre em contato comigo: [![Linkedin Maria José](https://img.shields.io/badge/-mariejl-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mariejl/)](https://linkedin.com/in/mariejl/)
+ <br/>  <br/> Entre em contato comigo: [![Linkedin Maria José](https://img.shields.io/badge/-mariejl-midnight-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mariejl/)](https://linkedin.com/in/mariejl/)
 [![Gmail Maria](https://img.shields.io/badge/-mariajr.lisboa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariajr.lisboa@gmail.com)](mailto:mariajr.lisboa@gmail.com)
 
 
