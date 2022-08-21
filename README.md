@@ -34,7 +34,7 @@ Sou uma FullStack Web Developer 💻
   <img align="center" alt="MJ-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MJ-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MJ-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MJ-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/ redux-original.svg">
+  <img align="center" alt="MJ-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="MJ-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="right" alt="Maria" height="95" width="100"; src="https://github.com/MarieJLisboa/MarieJLisboa/blob/main/Barbieu%20(1).png?raw=true"> 
 </div>
