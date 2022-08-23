@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 Acredito que a programação é uma maneira instigante de resolver problemas, além de fornecer meios de externalizar a criatividade.
-Sou uma FullStack Web Developer 💻
+Sou uma FullStack Web Developer Junior💻
 
  :rocket:  &nbsp; Estou Disponível para Contratações
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Back-end usando Node.js
