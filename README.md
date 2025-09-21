@@ -1,11 +1,11 @@
-<img width="auto" src="https://github.com/Julianamcs/julianamcs/blob/3769b4363d8a49c6e481cd85b7b3af0ae9c56bd6/Img/bg.jpg">
+
 
 ### Hi there 👋
 
 Acredito que a programação é uma maneira instigante de resolver problemas, além de fornecer meios de externalizar a criatividade.
 Sou uma FullStack Web Developer Junior💻
 
- :rocket:  &nbsp; Estou Disponível para Contratações
+ :rocket:  &nbsp; 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Back-end usando Node.js
  <br/> :blush: &nbsp; Posso te ajudar com:
  <br/>Front-End: JavaScript (ES6), Testes Assíncronos, React, Context API, React Hooks, Context API, RTL, Gerenciamento de estado com Redux;
